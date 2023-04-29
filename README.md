@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -21,18 +21,18 @@
 
 ### 🧔🏾‍♂️ About me :
 
-  - 🐿️ Currently working at Squirrel
+  - Currently working at 🐿️ Squirrel
   - Learning about **Golang, ReactJS, Design Patterns**
-  - Also **TypeScript, NextJS, TDD** (in my Personal Projects)
+  - Also **TypeScript, NextJS, TDD** (Personal Projects)
   - 📫 How to reach me **brice@squirrel.fr**
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=bricevrs&theme=swift)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricevrs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 **bricevrs/bricevrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### 🛠 &nbsp;Languages and Tools :
+
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;  
@@ -44,6 +44,15 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=bricevrs&theme=swift)](https://git.io/streak-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricevrs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
