@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/bricevrs">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +13,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://stackoverflow.com/users/21735998/brice-virassamy">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stackoverflow Badge"/>
+  </a>
+</div>
+
 
 <h1 align="center">Hii, I'm Brice<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <h3 align="center">🇫🇷 Junior Software Engineer</h3>
