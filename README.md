@@ -22,7 +22,7 @@
 
 
 <h1 align="center">Hii, I'm Brice<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<h3 align="center">🇫🇷 Junior Software Engineer</h3>
+<h2 align="center">🇫🇷 Junior Software Engineer</h2>
 
 <p align="center"><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="500" height="250"  /></p>
 
@@ -56,16 +56,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
+### 🔥 &nbsp; My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=bricevrs&theme=swift)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bricevrs&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 
-**bricevrs/bricevrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=bricevrs&theme=swift)](https://git.io/streak-stats)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricevrs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+**bricevrs/bricevrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -77,4 +84,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
