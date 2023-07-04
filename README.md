@@ -56,10 +56,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
+
+<!--
 ### 👣 Roadmap
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649d3ffdd99c9d67319f1b3d?variant=light)](https://roadmap.sh)
 
-<!--
 ### 🔥 &nbsp; My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bricevrs&show_icons=true&theme=swift)
 
