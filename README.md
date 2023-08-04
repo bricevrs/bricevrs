@@ -56,15 +56,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
-### 🔥 &nbsp; My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bricevrs&show_icons=true&theme=swift)
-
 
 <!--
+
+### 🔥 &nbsp; My Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bricevrs&theme=swift)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bricevrs&show_icons=true&theme=swift)
 ### 👣 Roadmap
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649d3ffdd99c9d67319f1b3d?variant=light)](https://roadmap.sh)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bricevrs&theme=swift)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bricevrs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
