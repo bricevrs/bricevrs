@@ -60,7 +60,7 @@
 </p>
 
 ### 🌟 &nbsp; My LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/bricevrs?theme=nord&font=Libre%20Franklin&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bricevrs?theme=nord&font=Libre%20Franklin)
 <!--
 
 
