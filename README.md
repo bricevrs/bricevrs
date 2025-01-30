@@ -23,8 +23,7 @@
 ### 🧔🏾‍♂️ About me
 
   - Currently working at 🐿️ Squirrel
-  - Learning about **Golang, API GraphQL, Design Patterns**
-  - 📫 How to reach me **brice@squirrel.fr**
+  - 📫 How to reach me : **bricevrs.pro@gmail.com**
 
 ### 🛠&nbsp;Main Languages and Tools
 
